@@ -8,4 +8,5 @@ and
 ```test/validator_test.exs```
 ## Running the tests
 ```cd ruby && ruby validator_test.rb```
+
 ```cd elixir && mix test```
